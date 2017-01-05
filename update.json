@@ -1,8 +1,8 @@
 {
   "settings": {
     "version": "0.9",
-    "lastupdate": "10/12/2016",
-	"url": "http://magdieid.com/up/update/update.zip",
+    "lastupdate": "05/01/2017",
+	"url": "https://raw.githubusercontent.com/onexite/SuUpdate/master/update.zip",
 	
     "info_ar":
 	[
@@ -66,5 +66,3 @@
 
  
 }}
-
-
