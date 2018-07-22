@@ -1,8 +1,8 @@
 {
   "settings": {
-    "version": "0.9.1",
-    "lastupdate": "04/08/2017",
-	"url": "https://raw.githubusercontent.com/JubaDZ/ScriptUploadFiles/master/update.zip",
+    "version": "0.9.3",
+    "lastupdate": "22/07/2018",
+	"url": "https://raw.githubusercontent.com/JubaDZ/UploadFilesBasic/master/UploadFilesBasic.zip",
 	
     "info_ar":
 	[
@@ -32,7 +32,7 @@
 	
 	"mysqli": 
 	[
-	"VVBEQVRFIGBzZXR0aW5nc2AgU0VUIGB2YWx1ZWAgPSAnMC45LjEnIFdIRVJFIGBuYW1lYCA9ICdzY3JpcHR2ZXJzaW9uJzs="	
+	"VVBEQVRFIGBzZXR0aW5nc2AgU0VUIGB2YWx1ZWAgPSAnMC45LjMnIFdIRVJFIGBuYW1lYCA9ICdzY3JpcHR2ZXJzaW9uJzs="	
 	]
 
  
