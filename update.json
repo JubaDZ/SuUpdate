@@ -14,7 +14,8 @@
 	"تحميل الملفات ذات الحجم الكبير" ,
 	"التحكم في سرعة التحميل" ,
 	"اضافة نظام الخطط" ,
-	"اضافة لوجو للموقع" 
+	"اضافة لوجو للموقع" ,
+	"تحديث خدمة المبرمجين" 
 	],
 	
 	"info_en":
@@ -27,7 +28,8 @@
 	"Loading oversized files",
 	"Control the download speed",
 	"Add system plans",
-	"Add logo of the site"
+	"Add logo of the site",
+	"Update Api Service"
 	],
 	
 	"mysqli": 
