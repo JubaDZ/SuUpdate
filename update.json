@@ -1,13 +1,13 @@
 {
   "settings": {
-    "version": "0.9.7",
-    "lastupdate": "08/06/2019",
+    "version": "0.9.8",
+    "lastupdate": "24/05/2020",
 	"url": "https://raw.githubusercontent.com/JubaDZ/UploadFilesBasic/master/UploadFilesBasic.zip",
 	
     "info_ar":
 	[
 	"اضافة خاصية الصفحات"  ,
-    "اضافة خاصية اجاكس في صقحات عديدة" ,
+        "اضافة خاصية اجاكس في صقحات عديدة" ,
 	"تحديث نظام الحماية" ,
 	"دعم الاحصائيات" ,
 	"دعم اللغة العربية" ,
@@ -17,13 +17,14 @@
 	"اضافة لوجو للموقع" ,
 	"تحديث خدمة المبرمجين",
 	"تحديث خاصية الاعلانات",
-	"اضافة صفحة ملفات المستخدم" 
+	"اضافة صفحة ملفات المستخدم" ,
+	"حماية اضافة" 
 	],
 	
 	"info_en":
 	[
 	"update pagination" ,
-    "add ajax" ,
+        "add ajax" ,
 	"update Security" ,
 	"Support Statistics",
 	"Arabic language support",
@@ -33,7 +34,8 @@
 	"Add logo of the site",
 	"Update Api Service",
 	"Update ads manager",
-	"Add page - User Files"	
+	"Add page - User Files"	,
+        "More secure"
 	],
 	
 	"mysqli": 
